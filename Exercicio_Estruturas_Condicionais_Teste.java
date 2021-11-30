@@ -14,9 +14,13 @@
         System.out.println("Digite um valor para B");
         boolean b = sc.nextBoolean();
         
-        if(a != b );
-            System.out.println(a != b );
+        if(a != b ){
+            System.out.println("a != b" );
 
+        }else{
+            System.out.println( "a==b" );
+            
+        }
    }
 }
               
